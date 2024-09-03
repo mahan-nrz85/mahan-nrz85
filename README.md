@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![telegram](https://img.shields.io/badge/telagram-%23E4405F.svg?logo=telegram&logoColor=white)](https://telegram.com/mahan_nrz) 
+[![telegram](https://img.shields.io/badge/telagram-%23E4405F.svg?logo=telegram&logoColor=white)](https://t.me/mahan_nrz) 
 [![instagram](https://img.shields.io/badge/instagram-%EF4E4E.svg?logo=instagram&logoColor=white)](https://instagram.com/mahan_nrz) 
 
 # 💻 Tech Stack:
