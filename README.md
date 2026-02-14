@@ -1,5 +1,10 @@
-# 💫 About Me:
-🔭 I’m mahan norouzi<br>👯 I’m looking to collaborate on js project <br>🌱 I’m currently learning javascript , ReactJs
+# 🔹 About Me:
+🔭 Frontend Developer focused on React & Next.js  
+⚡ Building scalable, production-ready web applications  
+🧠 Working with TypeScript, React Query & modern UI systems  
+🚀 Currently improving performance optimization & advanced Next.js patterns  
+🤝 Open to collaboration on serious JS/React projects
+
 ## 🌐 Socials:
 [![telegram](https://img.shields.io/badge/telagram-%23E4405F.svg?logo=telegram&logoColor=white)](https://t.me/mahan_nrz) 
 [![instagram](https://img.shields.io/badge/instagram-%EF4E4E.svg?logo=instagram&logoColor=white)](https://instagram.com/mahan_nrz) 
